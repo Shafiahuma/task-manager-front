@@ -1,0 +1,63 @@
+/* App.css */
+body {
+  background-color: #121212;
+  color: #89700c;
+}
+
+.container {
+  margin-top: 50px;
+}
+
+h1 {
+  color: #f1c40f;
+}
+
+.form-label {
+  color: #f1c40f;
+}
+
+.form-control {
+  background-color: #2c2c2c;
+  color: #f1c40f;
+  border: 1px solid #f1c40f;
+}
+
+.form-check-label {
+  color: #f1c40f;
+}
+
+.btn-primary {
+  background-color: #f1c40f;
+  border: none;
+  color: #121212;
+}
+
+.btn-primary:hover {
+  background-color: #d4ac0d;
+}
+
+.list-group-item {
+  background-color: #2c2c2c;
+  color: #f1c40f;
+  border: 1px solid #f1c40f;
+}
+
+.btn-secondary {
+  background-color: #7d7d7d;
+  border: none;
+  color: #f1c40f;
+}
+
+.btn-danger {
+  background-color: #c0392b;
+  border: none;
+  color: #f1c40f;
+}
+
+.btn-secondary:hover {
+  background-color: #636363;
+}
+
+.btn-danger:hover {
+  background-color: #a93226;
+}
